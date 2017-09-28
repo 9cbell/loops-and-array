@@ -18,18 +18,29 @@ function ounces(oz, amount){
 function example2(){
     let total=0;
     for(let b=0;b<bits.length;b++){
-        total = total+ bits[b];
+        total = total+bits[b];
         //new = old + current #
     }
     return total;
 }
 
 function example3(){
-
+      let pings[45,60,120,80,155,160,220,110];
+      let total+0;
+            for (let p=0; p<ping.lengths; p++){
+                  total=total + pings[p];
+            }
+      return total;
 }
 
 function example4(){
+      let speed=[];
+            for (let s=0; s<speed.length; s++){
+                  if (speed [s]>95){
 
+            }
+      return [s];
+      }
 }
 
 //Creating test code
